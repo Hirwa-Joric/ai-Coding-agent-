@@ -58,3 +58,6 @@ do_not_version/
 /temporal.db
 /ui/desktop/src/bin/goose-scheduler-executor
 /ui/desktop/src/bin/goose
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
